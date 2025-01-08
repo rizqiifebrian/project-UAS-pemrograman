@@ -67,3 +67,8 @@ Jika file dijalankan sebagai program utama, instance Process dibuat dan metode r
 hasil kode di atas
 
 ![uas hasil](https://github.com/user-attachments/assets/6a885bd4-24fe-4d27-98f3-49e2781683ef)
+
+
+Link youtube
+https://youtu.be/_k93VZJdZD0?si=fxDOG6TdV3zJMI56
+
